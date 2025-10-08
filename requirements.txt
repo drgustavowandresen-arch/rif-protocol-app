@@ -1,0 +1,12 @@
+streamlit==1.29.0
+
+pandas==2.0.3
+
+Clique "Commit changes"
+Deploy no Streamlit Cloud:
+Acesse: https://streamlit.io/cloud
+Clique "Sign in" (use sua conta GitHub)
+Clique "New app"
+Selecione seu repositório rif-protocol-app
+Main file: rif_app.py
+Clique "Deploy"
